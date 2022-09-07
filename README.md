@@ -318,6 +318,6 @@ $
                                                                                                                               
 <h2>Authors</h2>                                                                                                              
                                                                                                                               
-👤 Martin Agoha, <martin4dtruth@gmail.com>
+Umar Faruq Adam<umarfaruqadam03@gmail.com>
 
-👤 Adeeyo Solomon, <adeeyo69@gmail.com>
+Imran Suleiman<imransuleiman26@gmail.com>
